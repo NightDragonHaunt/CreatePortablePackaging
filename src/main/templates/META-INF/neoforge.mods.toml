@@ -1,7 +1,7 @@
 modLoader = "javafml"
 # The loader version doesn't matter. Modify the Forge and/or Minecraft version ranges instead.
 loaderVersion = "[0,)"
-# issueTrackerURL="https://github.com/Creators-of-Create/Create/issues"
+issueTrackerURL = "https://github.com/NightDragonHaunt/CreatePortablePackaging/issues"
 license = "${mod_license}"
 
 [[mods]]
