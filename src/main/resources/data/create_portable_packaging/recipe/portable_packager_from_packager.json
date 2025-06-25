@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "C": {
+            "item": "create:packager"
+        },
+        "D": {
+            "item": "minecraft:string"
+        }
+    },
+    "pattern": [
+        "CD"
+    ],
+    "result": {
+        "count": 1,
+        "id": "create_portable_packaging:portable_packager"
+    }
+}

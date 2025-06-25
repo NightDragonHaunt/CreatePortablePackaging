@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "create_portable_packaging:item/ribbon",
+        "layer1": "create_portable_packaging:item/label"
+    }
+}

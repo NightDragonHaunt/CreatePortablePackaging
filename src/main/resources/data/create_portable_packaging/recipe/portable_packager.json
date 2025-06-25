@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "A": {
+            "item": "minecraft:iron_nugget"
+        },
+        "B": {
+            "item": "minecraft:paper"
+        },
+        "C": {
+            "item": "create:cardboard_block"
+        },
+        "D": {
+            "item": "minecraft:string"
+        }
+    },
+    "pattern": [
+        "AB ",
+        " CD"
+    ],
+    "result": {
+        "count": 1,
+        "id": "create_portable_packaging:portable_packager"
+    }
+}
